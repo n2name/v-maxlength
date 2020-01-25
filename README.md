@@ -1,8 +1,8 @@
 # v-maxlength
 
-[![bundlephobia minified size](https://badgen.net/bundlephobia/min/v-hotkey)](https://bundlephobia.com/result?p=v-hotkey)
-[![npm package version](https://badgen.net/npm/v/v-hotkey)](https://npm.im/v-hotkey)
-[![github license](https://badgen.net/github/license/dafrok/v-hotkey)](https://github.com/dafrok/v-hotkey/blob/master/LICENSE)
+[![bundlephobia minified size](https://badgen.net/bundlephobia/min/v-maxlength)](https://bundlephobia.com/result?p=v-maxlength)
+[![npm package version](https://badgen.net/npm/v/v-maxlength)](https://npm.im/v-maxlength)
+[![github license](https://badgen.net/github/license/n2name/v-maxlength)](https://github.com/n2name/v-maxlength/blob/master/LICENSE)
 [![js standard style](https://badgen.net/badge/code%20style/standard/pink)](https://standardjs.com)
 
 Vue 2.x directive for limiting textbox and textarea maxlength.
