@@ -10,6 +10,10 @@ export default {
             callback = (e) => {
               if (e.target.value.length > maxLength) {
                 e.target.value = e.target.value.substr(0, maxLength);
+
+                const event = document.createEvent('Event');
+                event.initEvent('input', true, true);
+                e.target.dispatchEvent(event);
               }
             };
             el.addEventListener('input', callback);
